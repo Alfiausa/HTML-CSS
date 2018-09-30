@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Visualization Weather Dashboard</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="index.html">Latitude</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                       aria-expanded="false">Plots<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="Cloudiness.html">Latitude vs. Cloudiness</a></li>
+                        <li><a href="Humidity.html">Latitude vs. Humidity</a></li>
+                        <li><a href="Temperature.html">Latitude vs. Max Temperature</a></li>
+                        <li><a href="Wind.html">Latitude vs. Wind Speed</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="Temperature_Glob.html">Global Temperatures</a></li>
+                        <li><a href="Humidity_Glob.html">Global Humidity</a></li>
+                        <li><a href="Cloudiness_Glob.html">Global Cloudiness</a></li>
+                        <li><a href="Wind_Glob.html">Global Wind Speed</a></li>
+                    </ul>
+                </li>
+                <li><a href="comparison.html">Comparison</a></li>
+                <li><a href="data.html">Data</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+            <h3>Global Wind Speeds</h3>
+            <div class="pull-left">
+                <a target="_blank" href="assets/images/wind_glob.png"><img src="assets/images/wind_glob.png" alt="Global Wind Speeds" width="100%" height="100%"></a>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <h3>Observations</h3>
+            <div class="pull-left">
+                <p>On 28/9/2018, the highest wind speed recorded was 67.78 mph in Gushikawa,
+                    Japan, north of the Cancer. Like the next 9 highest wind speed measurements
+                    were recorded north of the Tropic of Cancer. Generally, wind speeds appear to be
+                    higher north and south of the tropics, and lower within the tropics. There also
+                    appears to be some correlation between coastal locations and wind speeds;
+                    wind speed appears to be higher in coastal locations, and lower inland. </p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,570 @@
+,City,Country,Cloudiness,Date,Humidity,Lat,Lng,Max Temp,Wind Speed,temp_v,humdy_v,cloud_v,wind_v
+0,yulin,CN,0,09/28/2018,71,38.3,109.75,40.74,8.75,xkcd:sea green,#4C4CFF,#0000FF,xkcd:indigo blue
+1,milledgeville,US,1,09/28/2018,88,33.08,-83.23,80.06,2.93,xkcd:reddish orange,#3333FF,#0000FF,xkcd:violet
+2,dingle,IE,0,09/28/2018,100,52.14,-10.27,51.27,5.39,xkcd:yellow green,#0000FF,#0000FF,xkcd:indigo blue
+3,nizhniy chir,RU,0,09/28/2018,100,48.36,43.08,48.93,8.63,xkcd:sea green,#0000FF,#0000FF,xkcd:indigo blue
+4,tuatapere,NZ,92,09/28/2018,92,-46.13,167.69,52.44,19.71,xkcd:yellow green,#1919FF,#E5E5FF,xkcd:green
+5,ishigaki,JP,75,09/28/2018,94,24.34,124.16,78.8,31.09,xkcd:orange,#1919FF,#B2B2FF,xkcd:orange
+6,uray,RU,0,09/28/2018,86,60.13,64.8,42.27,8.41,xkcd:sea green,#3333FF,#0000FF,xkcd:indigo blue
+7,yumen,CN,0,09/28/2018,32,40.29,97.04,42.81,10.54,xkcd:sea green,#B2B2FF,#0000FF,xkcd:blue
+8,cap malheureux,MU,0,09/28/2018,100,-19.98,57.61,72.96,15.23,xkcd:orange,#0000FF,#0000FF,xkcd:green
+9,cabedelo,BR,20,09/28/2018,83,-6.97,-34.84,75.2,4.7,xkcd:orange,#3333FF,#1919FF,xkcd:violet
+10,poletayevo,RU,40,09/28/2018,70,55.04,61.11,46.4,13.42,xkcd:sea green,#6666FF,#4C4CFF,xkcd:blue
+11,chirkey,RU,20,09/28/2018,77,42.96,46.98,59,11.18,xkcd:yellow green,#4C4CFF,#1919FF,xkcd:blue
+12,hilo,US,20,09/28/2018,65,19.71,-155.08,86,9.17,xkcd:reddish orange,#6666FF,#1919FF,xkcd:indigo blue
+13,genhe,CN,64,09/28/2018,93,50.78,121.52,45.24,5.95,xkcd:sea green,#1919FF,#9999FF,xkcd:indigo blue
+14,lamesa,US,1,09/28/2018,36,32.74,-101.95,82.76,9.17,xkcd:reddish orange,#B2B2FF,#0000FF,xkcd:indigo blue
+15,pontivy,FR,0,09/28/2018,82,48.06,-2.97,55.4,14.99,xkcd:yellow green,#3333FF,#0000FF,xkcd:blue
+16,aktau,KZ,0,09/28/2018,76,43.65,51.16,48.2,6.71,xkcd:sea green,#4C4CFF,#0000FF,xkcd:indigo blue
+17,denpasar,ID,20,09/28/2018,89,-8.65,115.22,74.67,2.15,xkcd:orange,#3333FF,#1919FF,xkcd:violet
+18,kahului,US,40,09/28/2018,63,20.89,-156.47,89.96,21.92,xkcd:reddish orange,#6666FF,#4C4CFF,xkcd:sea green
+19,kavieng,PG,12,09/28/2018,100,-2.57,150.8,85.11,8.63,xkcd:reddish orange,#0000FF,#1919FF,xkcd:indigo blue
+20,ponta do sol,CV,0,09/28/2018,97,17.2,-25.09,79.44,20.6,xkcd:orange,#1919FF,#0000FF,xkcd:sea green
+21,tokur,RU,64,09/28/2018,56,53.13,132.9,49.56,4.38,xkcd:sea green,#7F7FFF,#9999FF,xkcd:violet
+22,balakhninskiy,RU,8,09/28/2018,86,58.01,114.28,30.66,2.15,xkcd:green,#3333FF,#0000FF,xkcd:violet
+23,anloga,GH,40,09/28/2018,88,5.79,0.9,78.8,9.17,xkcd:orange,#3333FF,#4C4CFF,xkcd:indigo blue
+24,ust-kulom,RU,92,09/28/2018,97,61.69,53.69,39.66,2.71,xkcd:green,#1919FF,#E5E5FF,xkcd:violet
+25,karratha,AU,0,09/28/2018,61,-20.74,116.85,69,4.61,xkcd:yellow,#6666FF,#0000FF,xkcd:violet
+26,touros,BR,64,09/28/2018,89,-5.2,-35.46,77.1,13,xkcd:orange,#3333FF,#9999FF,xkcd:blue
+27,kongolo,CD,76,09/28/2018,90,-5.39,27,70.26,5.5,xkcd:orange,#3333FF,#B2B2FF,xkcd:indigo blue
+28,katherine,AU,0,09/28/2018,23,-14.47,132.26,87.8,11.41,xkcd:reddish orange,#CCCCFF,#0000FF,xkcd:blue
+29,kisangani,CD,8,09/28/2018,100,0.52,25.21,70.08,2.71,xkcd:orange,#0000FF,#0000FF,xkcd:violet
+30,chokurdakh,RU,56,09/28/2018,100,70.62,147.9,30.21,6.17,xkcd:green,#0000FF,#7F7FFF,xkcd:indigo blue
+31,polunochnoye,RU,24,09/28/2018,90,60.87,60.43,36.69,8.52,xkcd:green,#3333FF,#3333FF,xkcd:indigo blue
+32,kapaa,US,90,09/28/2018,84,22.08,-159.32,86,17.22,xkcd:reddish orange,#3333FF,#CCCCFF,xkcd:green
+33,banepa,NP,20,09/28/2018,93,27.63,85.52,64.4,3.36,xkcd:yellow,#1919FF,#1919FF,xkcd:violet
+34,sal rei,CV,75,09/28/2018,78,16.18,-22.92,78.8,13.87,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:blue
+35,maturin,VE,8,09/28/2018,86,9.75,-63.18,79.26,6.4,xkcd:orange,#3333FF,#0000FF,xkcd:indigo blue
+36,caravelas,BR,0,09/28/2018,100,-17.73,-39.27,77.19,16.46,xkcd:orange,#0000FF,#0000FF,xkcd:green
+37,sao filipe,CV,0,09/28/2018,93,14.9,-24.5,79.17,17.92,xkcd:orange,#1919FF,#0000FF,xkcd:green
+38,zhigansk,RU,44,09/28/2018,100,66.77,123.37,33.81,5.73,xkcd:green,#0000FF,#6666FF,xkcd:indigo blue
+39,astana,KZ,0,09/28/2018,80,51.13,71.43,39.2,11.18,xkcd:green,#4C4CFF,#0000FF,xkcd:blue
+40,ust-maya,RU,0,09/28/2018,50,60.42,134.54,34.62,6.73,xkcd:green,#9999FF,#0000FF,xkcd:indigo blue
+41,ibipeba,BR,0,09/28/2018,38,-11.64,-42.01,73.14,7.74,xkcd:orange,#B2B2FF,#0000FF,xkcd:indigo blue
+42,sa kaeo,TH,92,09/28/2018,93,13.8,102.09,77.46,2.93,xkcd:orange,#1919FF,#E5E5FF,xkcd:violet
+43,ust-nera,RU,20,09/28/2018,82,64.57,143.24,22.02,2.93,xkcd:blue,#3333FF,#1919FF,xkcd:violet
+44,ilulissat,GL,92,09/28/2018,99,69.22,-51.1,32,8.05,xkcd:green,#1919FF,#E5E5FF,xkcd:indigo blue
+45,ende,ID,0,09/28/2018,100,-8.84,121.65,81.06,5.61,xkcd:reddish orange,#0000FF,#0000FF,xkcd:indigo blue
+46,vila do maio,CV,20,09/28/2018,88,15.13,-23.22,77,6.93,xkcd:orange,#3333FF,#1919FF,xkcd:indigo blue
+47,kununurra,AU,0,09/28/2018,52,-15.77,128.74,87.8,8.05,xkcd:reddish orange,#7F7FFF,#0000FF,xkcd:indigo blue
+48,piranshahr,IR,0,09/28/2018,54,36.7,45.14,42.09,1.59,xkcd:sea green,#7F7FFF,#0000FF,xkcd:violet
+49,luderitz,NA,8,09/28/2018,68,-26.65,15.16,58.29,17.13,xkcd:yellow green,#6666FF,#0000FF,xkcd:green
+50,aquiraz,BR,0,09/28/2018,78,-3.9,-38.39,80.6,10.29,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:blue
+51,klaksvik,FO,92,09/28/2018,93,62.23,-6.59,48.2,14.99,xkcd:sea green,#1919FF,#E5E5FF,xkcd:blue
+52,shache,CN,0,09/28/2018,87,38.42,77.24,41.37,2.93,xkcd:sea green,#3333FF,#0000FF,xkcd:violet
+53,sergeyevka,KZ,0,09/28/2018,66,53.88,67.42,43.44,12.33,xkcd:sea green,#6666FF,#0000FF,xkcd:blue
+54,iramuco,MX,90,09/28/2018,100,19.95,-100.92,59,8.05,xkcd:yellow green,#0000FF,#CCCCFF,xkcd:indigo blue
+55,nanortalik,GL,0,09/28/2018,94,60.14,-45.24,37.77,30.22,xkcd:green,#1919FF,#0000FF,xkcd:orange
+56,tommot,RU,88,09/28/2018,81,58.97,126.27,39.93,5.73,xkcd:green,#3333FF,#CCCCFF,xkcd:indigo blue
+57,dhangadhi,NP,0,09/28/2018,87,28.7,80.57,68.19,3.04,xkcd:yellow,#3333FF,#0000FF,xkcd:violet
+58,lagunas,PE,36,09/28/2018,91,-5.23,-75.68,80.16,1.36,xkcd:reddish orange,#1919FF,#4C4CFF,xkcd:violet
+59,narsaq,GL,0,09/28/2018,64,60.91,-46.05,39.2,11.41,xkcd:green,#6666FF,#0000FF,xkcd:blue
+60,beloha,MG,0,09/28/2018,60,-25.17,45.06,67.83,6.85,xkcd:yellow,#7F7FFF,#0000FF,xkcd:indigo blue
+61,lorengau,PG,20,09/28/2018,97,-2.02,147.27,84.66,9.53,xkcd:reddish orange,#1919FF,#1919FF,xkcd:indigo blue
+62,qeshm,IR,0,09/28/2018,69,26.96,56.27,86,6.93,xkcd:reddish orange,#6666FF,#0000FF,xkcd:indigo blue
+63,nakamura,JP,75,09/28/2018,88,35.17,136.87,68,10.29,xkcd:yellow,#3333FF,#B2B2FF,xkcd:blue
+64,kiruna,SE,8,09/28/2018,85,67.86,20.23,23,6.93,xkcd:blue,#3333FF,#0000FF,xkcd:indigo blue
+65,lufkin,US,1,09/28/2018,87,31.34,-94.73,75.92,3.36,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+66,nuuk,GL,75,09/28/2018,80,64.17,-51.74,35.6,11.41,xkcd:green,#4C4CFF,#B2B2FF,xkcd:blue
+67,tezu,IN,56,09/28/2018,78,27.93,96.16,64.23,1.7,xkcd:yellow,#4C4CFF,#7F7FFF,xkcd:violet
+68,camacha,PT,75,09/28/2018,78,33.08,-16.33,73.4,10.29,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:blue
+69,omaruru,NA,0,09/28/2018,86,-21.42,15.95,54.15,3.04,xkcd:yellow green,#3333FF,#0000FF,xkcd:violet
+70,qaanaaq,GL,0,09/28/2018,100,77.48,-69.36,13.29,11.77,xkcd:indigo blue,#0000FF,#0000FF,xkcd:blue
+71,tomatlan,MX,8,09/28/2018,76,19.93,-105.25,83.04,2.93,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:violet
+72,kisarawe,TZ,92,09/28/2018,82,-6.9,39.07,72.06,2.93,xkcd:orange,#3333FF,#E5E5FF,xkcd:violet
+73,paamiut,GL,80,09/28/2018,96,61.99,-49.67,39.57,9.19,xkcd:green,#1919FF,#B2B2FF,xkcd:indigo blue
+74,fortuna foothills,US,1,09/28/2018,14,32.66,-114.41,104,13.87,xkcd:red,#E5E5FF,#0000FF,xkcd:blue
+75,smirnykh,RU,0,09/28/2018,75,49.74,142.83,54.24,4.05,xkcd:yellow green,#4C4CFF,#0000FF,xkcd:violet
+76,bontang,ID,8,09/28/2018,96,0.12,117.47,82.05,6.51,xkcd:reddish orange,#1919FF,#0000FF,xkcd:indigo blue
+77,morehead,PG,32,09/28/2018,55,-8.71,141.64,83.67,15.79,xkcd:reddish orange,#7F7FFF,#4C4CFF,xkcd:green
+78,santa cruz,CR,75,09/28/2018,94,10.26,-85.58,77,4.7,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+79,shubarkuduk,KZ,0,09/28/2018,81,49.15,56.49,39.75,9.19,xkcd:green,#3333FF,#0000FF,xkcd:indigo blue
+80,sonari,IN,75,09/28/2018,88,27.03,95.02,78.8,0.81,xkcd:orange,#3333FF,#B2B2FF,xkcd:violet
+81,hamilton,BM,40,09/28/2018,69,32.3,-64.78,77,6.4,xkcd:orange,#6666FF,#4C4CFF,xkcd:indigo blue
+82,kodinar,IN,0,09/28/2018,71,20.79,70.7,74.13,4.61,xkcd:orange,#4C4CFF,#0000FF,xkcd:violet
+83,sidi ali,DZ,0,09/28/2018,88,36.1,0.42,59.19,2.93,xkcd:yellow green,#3333FF,#0000FF,xkcd:violet
+84,vao,NC,68,09/28/2018,100,-22.67,167.48,70.44,22.28,xkcd:orange,#0000FF,#9999FF,xkcd:sea green
+85,lewisporte,CA,90,09/28/2018,100,49.25,-55.06,48.2,8.05,xkcd:sea green,#0000FF,#CCCCFF,xkcd:indigo blue
+86,andenes,NO,88,09/28/2018,74,69.31,16.12,35.6,11.41,xkcd:green,#4C4CFF,#CCCCFF,xkcd:blue
+87,bougouni,ML,80,09/28/2018,93,11.42,-7.49,70.8,5.95,xkcd:orange,#1919FF,#B2B2FF,xkcd:indigo blue
+88,zagreb,HR,0,09/28/2018,87,45.81,15.98,44.6,4.7,xkcd:sea green,#3333FF,#0000FF,xkcd:violet
+89,tazmalt,DZ,0,09/28/2018,88,36.39,4.4,62.6,5.82,xkcd:yellow,#3333FF,#0000FF,xkcd:indigo blue
+90,shakiso,ET,80,09/28/2018,99,5.77,38.9,58.47,2.37,xkcd:yellow green,#1919FF,#B2B2FF,xkcd:violet
+91,bredasdorp,ZA,36,09/28/2018,62,-34.53,20.04,55.4,4.7,xkcd:yellow green,#6666FF,#4C4CFF,xkcd:violet
+92,kang,BW,0,09/28/2018,45,-23.67,22.79,67.56,10.42,xkcd:yellow,#9999FF,#0000FF,xkcd:blue
+93,yelan,RU,0,09/28/2018,89,50.95,43.74,47.4,10.65,xkcd:sea green,#3333FF,#0000FF,xkcd:blue
+94,kalmunai,LK,68,09/28/2018,100,7.42,81.82,72.51,2.71,xkcd:orange,#0000FF,#9999FF,xkcd:violet
+95,vung tau,VN,40,09/28/2018,94,10.35,107.08,80.6,1.12,xkcd:reddish orange,#1919FF,#4C4CFF,xkcd:violet
+96,kruisfontein,ZA,88,09/28/2018,84,-34,24.73,60.45,23.85,xkcd:yellow,#3333FF,#CCCCFF,xkcd:sea green
+97,timra,SE,8,09/28/2018,92,62.49,17.33,28.4,1.12,xkcd:blue,#1919FF,#0000FF,xkcd:violet
+98,prieska,ZA,0,09/28/2018,21,-29.67,22.74,40.38,6.29,xkcd:sea green,#CCCCFF,#0000FF,xkcd:indigo blue
+99,moron,MN,88,09/28/2018,86,47.38,110.32,35.07,15.35,xkcd:green,#3333FF,#CCCCFF,xkcd:green
+100,carpentras,FR,0,09/28/2018,52,44.06,5.05,71.6,14.99,xkcd:orange,#7F7FFF,#0000FF,xkcd:blue
+101,santa rosa,AR,90,09/28/2018,100,-36.62,-64.29,60.8,11.41,xkcd:yellow,#0000FF,#CCCCFF,xkcd:blue
+102,nuevitas,CU,20,09/28/2018,83,21.55,-77.27,78.8,6.93,xkcd:orange,#3333FF,#1919FF,xkcd:indigo blue
+103,isangel,VU,92,09/28/2018,100,-19.55,169.27,71.61,18.7,xkcd:orange,#0000FF,#E5E5FF,xkcd:green
+104,gao,ML,20,09/28/2018,49,16.28,-0.04,81.69,2.71,xkcd:reddish orange,#9999FF,#1919FF,xkcd:violet
+105,ulaanbaatar,MN,75,09/28/2018,80,47.92,106.92,33.8,15.66,xkcd:green,#4C4CFF,#B2B2FF,xkcd:green
+106,providencia,MX,5,09/28/2018,49,27.5,-109.99,91.4,2.24,xkcd:red,#9999FF,#0000FF,xkcd:violet
+107,pangnirtung,CA,80,09/28/2018,90,66.15,-65.72,30.48,10.2,xkcd:green,#3333FF,#B2B2FF,xkcd:blue
+108,belaya gora,RU,48,09/28/2018,84,68.54,146.19,33.27,9.53,xkcd:green,#3333FF,#6666FF,xkcd:indigo blue
+109,pahrump,US,1,09/28/2018,2,36.21,-115.98,98.06,4.7,xkcd:red,#FFFFFF,#0000FF,xkcd:violet
+110,westwood,US,75,09/28/2018,90,42.21,-71.22,59,3.6,xkcd:yellow green,#3333FF,#B2B2FF,xkcd:violet
+111,palora,EC,20,09/28/2018,93,-1.7,-77.97,65.67,2.37,xkcd:yellow,#1919FF,#1919FF,xkcd:violet
+112,butterworth,ZA,0,09/28/2018,51,-32.33,28.14,54.96,11.21,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:blue
+113,alekseyevsk,RU,0,09/28/2018,100,57.84,108.35,37.32,3.49,xkcd:green,#0000FF,#0000FF,xkcd:violet
+114,arlit,NE,20,09/28/2018,31,18.74,7.39,75.3,3.15,xkcd:orange,#B2B2FF,#1919FF,xkcd:violet
+115,srednekolymsk,RU,92,09/28/2018,75,67.46,153.71,31.74,6.62,xkcd:green,#4C4CFF,#E5E5FF,xkcd:indigo blue
+116,monte alegre,BR,12,09/28/2018,64,-2,-54.07,84.12,4.94,xkcd:reddish orange,#6666FF,#1919FF,xkcd:violet
+117,ribeira grande,PT,32,09/28/2018,100,38.52,-28.7,73.23,12.55,xkcd:orange,#0000FF,#4C4CFF,xkcd:blue
+118,sao joao da barra,BR,92,09/28/2018,100,-21.64,-41.05,74.67,10.98,xkcd:orange,#0000FF,#E5E5FF,xkcd:blue
+119,sola,VU,92,09/28/2018,96,-13.88,167.55,79.89,21.39,xkcd:orange,#1919FF,#E5E5FF,xkcd:sea green
+120,tarauaca,BR,32,09/28/2018,76,-8.16,-70.77,82.14,5.73,xkcd:reddish orange,#4C4CFF,#4C4CFF,xkcd:indigo blue
+121,cape town,ZA,20,09/28/2018,81,-33.93,18.42,48.2,5.82,xkcd:sea green,#3333FF,#1919FF,xkcd:indigo blue
+122,morgan city,US,40,09/28/2018,97,29.7,-91.21,73.94,6.93,xkcd:orange,#1919FF,#4C4CFF,xkcd:indigo blue
+123,bilma,NE,0,09/28/2018,32,18.69,12.92,72.51,3.27,xkcd:orange,#B2B2FF,#0000FF,xkcd:violet
+124,dindori,IN,0,09/28/2018,87,22.94,81.08,64.59,2.15,xkcd:yellow,#3333FF,#0000FF,xkcd:violet
+125,barrhead,CA,80,09/28/2018,69,54.12,-114.4,42.45,5.5,xkcd:sea green,#6666FF,#B2B2FF,xkcd:indigo blue
+126,saldanha,ZA,0,09/28/2018,87,-33.01,17.94,46.4,2.24,xkcd:sea green,#3333FF,#0000FF,xkcd:violet
+127,kaeo,NZ,64,09/28/2018,53,-35.1,173.78,60.99,1.14,xkcd:yellow,#7F7FFF,#9999FF,xkcd:violet
+128,atkarsk,RU,0,09/28/2018,82,51.88,45.01,49.56,12.66,xkcd:sea green,#3333FF,#0000FF,xkcd:blue
+129,margate,ZA,0,09/28/2018,85,-30.86,30.37,66.39,6.96,xkcd:yellow,#3333FF,#0000FF,xkcd:indigo blue
+130,astoria,US,90,09/28/2018,96,46.19,-123.83,55.04,10.29,xkcd:yellow green,#1919FF,#CCCCFF,xkcd:blue
+131,bay roberts,CA,90,09/28/2018,100,47.58,-53.28,51.8,13.87,xkcd:yellow green,#0000FF,#CCCCFF,xkcd:blue
+132,ushuaia,AR,88,09/28/2018,100,-54.81,-68.31,33.36,1.7,xkcd:green,#0000FF,#CCCCFF,xkcd:violet
+133,ziarat,PK,0,09/28/2018,55,30.38,67.73,38.94,2.15,xkcd:green,#7F7FFF,#0000FF,xkcd:violet
+134,atuona,PF,76,09/28/2018,100,-9.8,-139.03,79.53,10.65,xkcd:orange,#0000FF,#B2B2FF,xkcd:blue
+135,demmin,DE,20,09/28/2018,81,53.91,13.03,42.8,5.82,xkcd:sea green,#3333FF,#1919FF,xkcd:indigo blue
+136,kaitangata,NZ,32,09/28/2018,69,-46.28,169.85,59.19,11.65,xkcd:yellow green,#6666FF,#4C4CFF,xkcd:blue
+137,venado tuerto,AR,24,09/28/2018,91,-33.75,-61.97,68.46,10.65,xkcd:yellow,#1919FF,#3333FF,xkcd:blue
+138,arona,ES,0,09/28/2018,69,28.1,-16.68,75.2,5.82,xkcd:orange,#6666FF,#0000FF,xkcd:indigo blue
+139,riyadh,SA,0,09/28/2018,12,24.63,46.72,80.6,4.7,xkcd:reddish orange,#E5E5FF,#0000FF,xkcd:violet
+140,puerto escondido,MX,90,09/28/2018,70,15.86,-97.07,84.2,11.41,xkcd:reddish orange,#6666FF,#CCCCFF,xkcd:blue
+141,maneadero,MX,0,09/28/2018,43,31.72,-116.57,81.06,3.38,xkcd:reddish orange,#9999FF,#0000FF,xkcd:violet
+142,kontagora,NG,68,09/28/2018,97,10.4,5.47,74.04,5.06,xkcd:orange,#1919FF,#9999FF,xkcd:indigo blue
+143,los llanos de aridane,ES,0,09/28/2018,73,28.66,-17.92,73.4,11.41,xkcd:orange,#4C4CFF,#0000FF,xkcd:blue
+144,calamar,CO,24,09/28/2018,87,1.96,-72.65,77.91,0.58,xkcd:orange,#3333FF,#3333FF,xkcd:violet
+145,fonte boa,BR,0,09/28/2018,88,-2.51,-66.09,79.53,3.71,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+146,faanui,PF,24,09/28/2018,100,-16.48,-151.75,77.19,5.61,xkcd:orange,#0000FF,#3333FF,xkcd:indigo blue
+147,naliya,IN,0,09/28/2018,94,23.26,68.83,70.17,6.4,xkcd:orange,#1919FF,#0000FF,xkcd:indigo blue
+148,tungor,RU,68,09/28/2018,69,53.39,142.95,56.31,11.21,xkcd:yellow green,#6666FF,#9999FF,xkcd:blue
+149,matara,LK,92,09/28/2018,100,5.95,80.54,73.95,7.74,xkcd:orange,#0000FF,#E5E5FF,xkcd:indigo blue
+150,baijiantan,CN,32,09/28/2018,62,45.63,85.18,53.61,3.04,xkcd:yellow green,#6666FF,#4C4CFF,xkcd:violet
+151,diu,IN,0,09/28/2018,71,20.71,70.98,74.13,4.61,xkcd:orange,#4C4CFF,#0000FF,xkcd:violet
+152,puerto ayora,EC,20,09/28/2018,73,-0.74,-90.35,75.2,17.22,xkcd:orange,#4C4CFF,#1919FF,xkcd:green
+153,boone,US,1,09/28/2018,81,36.22,-81.67,73.04,1.25,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+154,talnakh,RU,8,09/28/2018,85,69.49,88.39,47.76,16.46,xkcd:sea green,#3333FF,#0000FF,xkcd:green
+155,edd,ER,0,09/28/2018,57,13.93,41.69,67.2,2.48,xkcd:yellow,#7F7FFF,#0000FF,xkcd:violet
+156,hurricane,US,1,09/28/2018,2,37.18,-113.29,93.02,6.93,xkcd:red,#FFFFFF,#0000FF,xkcd:indigo blue
+157,souillac,MU,56,09/28/2018,88,-20.52,57.52,70.17,10.31,xkcd:orange,#3333FF,#7F7FFF,xkcd:blue
+158,ndjole,GA,44,09/28/2018,95,-0.18,10.76,73.14,3.94,xkcd:orange,#1919FF,#6666FF,xkcd:violet
+159,ostrovnoy,RU,88,09/28/2018,84,68.05,39.51,36.69,18.14,xkcd:green,#3333FF,#CCCCFF,xkcd:green
+160,ventspils,LV,40,09/28/2018,70,57.39,21.56,48.2,16.11,xkcd:sea green,#6666FF,#4C4CFF,xkcd:green
+161,chandur,IN,0,09/28/2018,85,20.82,77.97,71.52,2.82,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+162,yulara,AU,80,09/28/2018,30,-25.24,130.99,69.8,26.4,xkcd:yellow,#CCCCFF,#B2B2FF,xkcd:sea green
+163,coquimbo,CL,75,09/28/2018,93,-29.95,-71.34,55.4,5.82,xkcd:yellow green,#1919FF,#B2B2FF,xkcd:indigo blue
+164,lavrentiya,RU,92,09/28/2018,91,65.58,-170.99,44.7,28.88,xkcd:sea green,#1919FF,#E5E5FF,xkcd:sea green
+165,andros town,BS,40,09/28/2018,74,24.73,-77.79,84.2,10.29,xkcd:reddish orange,#4C4CFF,#4C4CFF,xkcd:blue
+166,boguchany,RU,0,09/28/2018,91,58.38,97.46,31.47,4.61,xkcd:green,#1919FF,#0000FF,xkcd:violet
+167,galveston,US,1,09/28/2018,67,40.58,-86.19,60.8,14.99,xkcd:yellow,#6666FF,#0000FF,xkcd:blue
+168,tocopilla,CL,0,09/28/2018,98,-22.09,-70.2,59.64,5.84,xkcd:yellow green,#1919FF,#0000FF,xkcd:indigo blue
+169,kaya,BF,80,09/28/2018,74,13.09,-1.08,79.17,5.95,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:indigo blue
+170,litovko,RU,0,09/28/2018,79,49.24,135.18,52.17,3.15,xkcd:yellow green,#4C4CFF,#0000FF,xkcd:violet
+171,tabou,CI,68,09/28/2018,100,4.42,-7.36,78.54,12.33,xkcd:orange,#0000FF,#9999FF,xkcd:blue
+172,butaritari,KI,0,09/28/2018,100,3.07,172.79,85.29,6.85,xkcd:reddish orange,#0000FF,#0000FF,xkcd:indigo blue
+173,derzhavinsk,KZ,8,09/28/2018,86,51.1,66.31,38.22,8.08,xkcd:green,#3333FF,#0000FF,xkcd:indigo blue
+174,boende,CD,92,09/28/2018,99,-0.28,20.88,70.89,2.48,xkcd:orange,#1919FF,#E5E5FF,xkcd:violet
+175,awbari,LY,44,09/28/2018,73,26.59,12.77,66.12,2.82,xkcd:yellow,#4C4CFF,#6666FF,xkcd:violet
+176,otradnoye,RU,0,09/28/2018,74,59.77,30.8,37.4,8.95,xkcd:green,#4C4CFF,#0000FF,xkcd:indigo blue
+177,dhidhdhoo,MV,92,09/28/2018,100,6.88,73.1,78.9,14,xkcd:orange,#0000FF,#E5E5FF,xkcd:blue
+178,kamyaran,IR,0,09/28/2018,20,34.8,46.94,57.2,4.7,xkcd:yellow green,#E5E5FF,#0000FF,xkcd:violet
+179,gushikawa,JP,90,09/28/2018,94,26.35,127.87,78.8,67.78,xkcd:orange,#1919FF,#CCCCFF,xkcd:red
+180,tiassale,CI,76,09/28/2018,97,5.9,-4.83,73.41,5.84,xkcd:orange,#1919FF,#B2B2FF,xkcd:indigo blue
+181,cidreira,BR,56,09/28/2018,92,-30.17,-50.22,66.93,20.15,xkcd:yellow,#1919FF,#7F7FFF,xkcd:sea green
+182,marsh harbour,BS,80,09/28/2018,100,26.54,-77.06,83.31,18.92,xkcd:reddish orange,#0000FF,#B2B2FF,xkcd:green
+183,berlevag,NO,12,09/28/2018,100,70.86,29.09,30.66,6.85,xkcd:green,#0000FF,#1919FF,xkcd:indigo blue
+184,eyl,SO,8,09/28/2018,88,7.98,49.82,77.28,18.03,xkcd:orange,#3333FF,#0000FF,xkcd:green
+185,dmytrivka,UA,40,09/28/2018,100,50.46,30.17,57.2,8.95,xkcd:yellow green,#0000FF,#4C4CFF,xkcd:indigo blue
+186,brewster,US,90,09/28/2018,100,41.76,-70.08,60.08,5.82,xkcd:yellow,#0000FF,#CCCCFF,xkcd:indigo blue
+187,mahebourg,MU,56,09/28/2018,88,-20.41,57.7,70.17,10.31,xkcd:orange,#3333FF,#7F7FFF,xkcd:blue
+188,lingyuan,CN,92,09/28/2018,80,41.24,119.4,45.33,3.6,xkcd:sea green,#4C4CFF,#E5E5FF,xkcd:violet
+189,porbandar,IN,0,09/28/2018,89,21.64,69.61,74.94,5.39,xkcd:orange,#3333FF,#0000FF,xkcd:indigo blue
+190,izumo,JP,75,09/28/2018,88,35.37,132.75,64.4,2.24,xkcd:yellow,#3333FF,#B2B2FF,xkcd:violet
+191,motygino,RU,0,09/28/2018,100,58.18,94.69,35.52,5.95,xkcd:green,#0000FF,#0000FF,xkcd:indigo blue
+192,nushki,PK,0,09/28/2018,51,29.55,66.02,51.09,4.16,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:violet
+193,artyom,AZ,0,09/28/2018,72,40.47,50.33,60.8,4.7,xkcd:yellow,#4C4CFF,#0000FF,xkcd:violet
+194,hithadhoo,MV,92,09/28/2018,100,-0.6,73.08,79.26,19.82,xkcd:orange,#0000FF,#E5E5FF,xkcd:green
+195,petropavlovsk-kamchatskiy,RU,0,09/28/2018,58,53.05,158.65,53.6,4.47,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:violet
+196,chatra,IN,0,09/28/2018,94,24.21,84.87,77,6.93,xkcd:orange,#1919FF,#0000FF,xkcd:indigo blue
+197,mar del plata,AR,0,09/28/2018,50,-46.43,-67.52,57.03,10.65,xkcd:yellow green,#9999FF,#0000FF,xkcd:blue
+198,ambon,ID,75,09/28/2018,94,-3.7,128.18,77,2.24,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+199,kudahuvadhoo,MV,76,09/28/2018,100,2.67,72.89,78.18,17.25,xkcd:orange,#0000FF,#B2B2FF,xkcd:green
+200,fortuna,US,1,09/28/2018,68,40.6,-124.16,64.4,13.87,xkcd:yellow,#6666FF,#0000FF,xkcd:blue
+201,mabaruma,GY,24,09/28/2018,84,8.2,-59.78,82.05,9.19,xkcd:reddish orange,#3333FF,#3333FF,xkcd:indigo blue
+202,leningradskiy,RU,88,09/28/2018,91,69.38,178.42,42,16.8,xkcd:sea green,#1919FF,#CCCCFF,xkcd:green
+203,kloulklubed,PW,75,09/28/2018,74,7.04,134.26,84.2,6.93,xkcd:reddish orange,#4C4CFF,#B2B2FF,xkcd:indigo blue
+204,tahoua,NE,12,09/28/2018,68,14.89,5.26,75.66,3.6,xkcd:orange,#6666FF,#1919FF,xkcd:violet
+205,nova olinda do norte,BR,20,09/28/2018,82,-3.89,-59.1,82.32,2.59,xkcd:reddish orange,#3333FF,#1919FF,xkcd:violet
+206,avarua,CK,75,09/28/2018,64,-21.21,-159.78,75.2,8.05,xkcd:orange,#6666FF,#B2B2FF,xkcd:indigo blue
+207,jalu,LY,24,09/28/2018,42,29.03,21.55,59.37,3.83,xkcd:yellow green,#9999FF,#3333FF,xkcd:violet
+208,muli,MV,88,09/28/2018,100,2.92,73.57,81.15,22.17,xkcd:reddish orange,#0000FF,#CCCCFF,xkcd:sea green
+209,chavakkad,IN,75,09/28/2018,94,10.53,76.05,77,3.49,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+210,fatezh,RU,92,09/28/2018,98,52.09,35.86,50.73,5.61,xkcd:yellow green,#1919FF,#E5E5FF,xkcd:indigo blue
+211,atambua,ID,0,09/28/2018,94,-9.11,124.89,79.26,5.95,xkcd:orange,#1919FF,#0000FF,xkcd:indigo blue
+212,eten,PE,90,09/28/2018,29,-6.91,-79.86,66.2,18.34,xkcd:yellow,#CCCCFF,#CCCCFF,xkcd:green
+213,ancud,CL,92,09/28/2018,98,-41.87,-73.83,48.93,8.41,xkcd:sea green,#1919FF,#E5E5FF,xkcd:indigo blue
+214,neuquen,AR,0,09/28/2018,33,-38.95,-68.06,62.6,17.22,xkcd:yellow,#B2B2FF,#0000FF,xkcd:green
+215,rostovka,RU,0,09/28/2018,100,55.02,73.58,37.4,8.95,xkcd:green,#0000FF,#0000FF,xkcd:indigo blue
+216,price,US,1,09/28/2018,4,39.6,-110.81,78.08,9.17,xkcd:orange,#FFFFFF,#0000FF,xkcd:indigo blue
+217,akhmim,EG,44,09/28/2018,59,26.56,31.74,74.94,2.71,xkcd:orange,#7F7FFF,#6666FF,xkcd:violet
+218,lebu,CL,92,09/28/2018,98,-37.62,-73.65,53.16,13.56,xkcd:yellow green,#1919FF,#E5E5FF,xkcd:blue
+219,moroni,KM,36,09/28/2018,100,-11.7,43.26,77.19,7.18,xkcd:orange,#0000FF,#4C4CFF,xkcd:indigo blue
+220,yar-sale,RU,88,09/28/2018,89,66.83,70.83,51.72,18.03,xkcd:yellow green,#3333FF,#CCCCFF,xkcd:green
+221,thinadhoo,MV,100,09/28/2018,100,0.53,72.93,81.69,19.48,xkcd:reddish orange,#0000FF,#E5E5FF,xkcd:green
+222,batagay-alyta,RU,8,09/28/2018,78,67.8,130.41,15.9,4.61,xkcd:indigo blue,#4C4CFF,#0000FF,xkcd:violet
+223,linxia,CN,0,09/28/2018,72,35.6,103.21,28.05,2.82,xkcd:blue,#4C4CFF,#0000FF,xkcd:violet
+224,aswan,EG,36,09/28/2018,37,24.09,32.9,79.35,3.6,xkcd:orange,#B2B2FF,#4C4CFF,xkcd:violet
+225,scarborough,GB,12,09/28/2018,93,54.28,-0.41,41,1.12,xkcd:sea green,#1919FF,#1919FF,xkcd:violet
+226,saint george,BM,40,09/28/2018,69,32.38,-64.68,77,6.4,xkcd:orange,#6666FF,#4C4CFF,xkcd:indigo blue
+227,georgiyevskoye,RU,0,09/28/2018,94,44.16,39.25,49.56,1.59,xkcd:sea green,#1919FF,#0000FF,xkcd:violet
+228,opuwo,NA,0,09/28/2018,43,-18.06,13.84,60.99,4.72,xkcd:yellow,#9999FF,#0000FF,xkcd:violet
+229,hualmay,PE,8,09/28/2018,84,-11.1,-77.61,61.71,4.16,xkcd:yellow,#3333FF,#0000FF,xkcd:violet
+230,husavik,IS,90,09/28/2018,65,66.04,-17.34,46.4,16.11,xkcd:sea green,#6666FF,#CCCCFF,xkcd:green
+231,tasiilaq,GL,0,09/28/2018,35,65.61,-37.64,41,24.16,xkcd:sea green,#B2B2FF,#0000FF,xkcd:sea green
+232,maumere,ID,0,09/28/2018,100,-8.63,122.22,81.96,5.95,xkcd:reddish orange,#0000FF,#0000FF,xkcd:indigo blue
+233,yerbogachen,RU,0,09/28/2018,84,61.28,108.01,32.73,2.37,xkcd:green,#3333FF,#0000FF,xkcd:violet
+234,aragarcas,BR,20,09/28/2018,61,-15.9,-52.25,82.4,2.24,xkcd:reddish orange,#6666FF,#1919FF,xkcd:violet
+235,upernavik,GL,88,09/28/2018,100,72.79,-56.15,33.63,16.13,xkcd:green,#0000FF,#CCCCFF,xkcd:green
+236,atar,MR,0,09/28/2018,30,20.52,-13.05,77.28,6.06,xkcd:orange,#CCCCFF,#0000FF,xkcd:indigo blue
+237,tainan,TW,75,09/28/2018,61,22.99,120.21,80.6,18.34,xkcd:reddish orange,#6666FF,#B2B2FF,xkcd:green
+238,rincon,US,40,09/28/2018,79,32.3,-81.24,82.94,5.82,xkcd:reddish orange,#4C4CFF,#4C4CFF,xkcd:indigo blue
+239,portland,AU,0,09/28/2018,61,-33.35,149.98,50.37,6.62,xkcd:yellow green,#6666FF,#0000FF,xkcd:indigo blue
+240,saskylakh,RU,92,09/28/2018,94,71.97,114.09,31.74,12.21,xkcd:green,#1919FF,#E5E5FF,xkcd:blue
+241,port lincoln,AU,0,09/28/2018,93,-34.72,135.86,55.32,5.84,xkcd:yellow green,#1919FF,#0000FF,xkcd:indigo blue
+242,zhaozhou,CN,92,09/28/2018,100,45.71,125.27,54.6,13.78,xkcd:yellow green,#0000FF,#E5E5FF,xkcd:blue
+243,acapulco,MX,75,09/28/2018,79,16.86,-99.88,84.2,3.36,xkcd:reddish orange,#4C4CFF,#B2B2FF,xkcd:violet
+244,east london,ZA,0,09/28/2018,100,-33.02,27.91,65.31,30.33,xkcd:yellow,#0000FF,#0000FF,xkcd:orange
+245,nouadhibou,MR,0,09/28/2018,78,20.93,-17.03,73.4,18.34,xkcd:orange,#4C4CFF,#0000FF,xkcd:green
+246,samarai,PG,36,09/28/2018,97,-10.62,150.67,78.81,14.23,xkcd:orange,#1919FF,#4C4CFF,xkcd:blue
+247,bilibino,RU,36,09/28/2018,67,68.06,166.44,42.81,3.04,xkcd:sea green,#6666FF,#4C4CFF,xkcd:violet
+248,nouakchott,MR,8,09/28/2018,97,18.08,-15.98,80.34,7.85,xkcd:reddish orange,#1919FF,#0000FF,xkcd:indigo blue
+249,gorontalo,ID,0,09/28/2018,72,0.54,123.06,80.97,4.05,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:violet
+250,akdepe,TM,0,09/28/2018,54,42.05,59.39,53.6,6.93,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:indigo blue
+251,vanimo,PG,44,09/28/2018,100,-2.67,141.3,83.22,5.73,xkcd:reddish orange,#0000FF,#6666FF,xkcd:indigo blue
+252,portree,GB,92,09/28/2018,100,57.41,-6.19,51.09,23.73,xkcd:yellow green,#0000FF,#E5E5FF,xkcd:sea green
+253,san juan,US,75,09/28/2018,90,26.19,-98.16,82.94,10.29,xkcd:reddish orange,#3333FF,#B2B2FF,xkcd:blue
+254,eirunepe,BR,32,09/28/2018,88,-6.66,-69.87,80.25,2.71,xkcd:reddish orange,#3333FF,#4C4CFF,xkcd:violet
+255,sobolevo,RU,80,09/28/2018,91,54.43,31.9,36.78,2.93,xkcd:green,#1919FF,#B2B2FF,xkcd:violet
+256,rockingham,US,1,09/28/2018,94,34.94,-79.77,78.08,3.38,xkcd:orange,#1919FF,#0000FF,xkcd:violet
+257,constitucion,MX,90,09/28/2018,56,23.99,-104.67,69.8,6.93,xkcd:yellow,#7F7FFF,#CCCCFF,xkcd:indigo blue
+258,moerai,PF,92,09/28/2018,100,-22.43,-151.33,71.97,10.31,xkcd:orange,#0000FF,#E5E5FF,xkcd:blue
+259,vestmannaeyjar,IS,92,09/28/2018,100,63.44,-20.27,45.15,31,xkcd:sea green,#0000FF,#E5E5FF,xkcd:orange
+260,kaduy,RU,20,09/28/2018,93,59.2,37.15,36.87,14.12,xkcd:green,#1919FF,#1919FF,xkcd:blue
+261,belmonte,BR,0,09/28/2018,89,-26.84,-53.58,70.08,3.15,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+262,roma,AU,0,09/28/2018,43,-26.57,148.79,74.31,8.3,xkcd:orange,#9999FF,#0000FF,xkcd:indigo blue
+263,vidim,RU,12,09/28/2018,80,56.41,103.11,29.4,2.59,xkcd:blue,#4C4CFF,#1919FF,xkcd:violet
+264,inyonga,TZ,0,09/28/2018,38,-6.72,32.06,69.27,7.74,xkcd:yellow,#B2B2FF,#0000FF,xkcd:indigo blue
+265,polis,CY,0,09/28/2018,60,35.04,32.42,68,8.05,xkcd:yellow,#7F7FFF,#0000FF,xkcd:indigo blue
+266,toucheng,TW,75,09/28/2018,78,24.86,121.82,75.2,11.41,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:blue
+267,whitley bay,GB,0,09/28/2018,86,55.04,-1.44,46.4,4.7,xkcd:sea green,#3333FF,#0000FF,xkcd:violet
+268,coahuayana,MX,24,09/28/2018,52,18.62,-100.35,81.96,2.26,xkcd:reddish orange,#7F7FFF,#3333FF,xkcd:violet
+269,rocha,UY,92,09/28/2018,97,-34.48,-54.34,61.71,18.37,xkcd:yellow,#1919FF,#E5E5FF,xkcd:green
+270,saint-francois,GP,92,09/28/2018,78,16.25,-61.27,82.4,6.93,xkcd:reddish orange,#4C4CFF,#E5E5FF,xkcd:indigo blue
+271,beihai,CN,0,09/28/2018,72,38.95,121.19,66.2,6.71,xkcd:yellow,#4C4CFF,#0000FF,xkcd:indigo blue
+272,skibbereen,IE,20,09/28/2018,87,51.55,-9.27,44.6,4.7,xkcd:sea green,#3333FF,#1919FF,xkcd:violet
+273,paracuru,BR,0,09/28/2018,78,-3.41,-39.03,80.6,10.29,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:blue
+274,buchanan,LR,44,09/28/2018,100,5.88,-10.05,76.47,6.62,xkcd:orange,#0000FF,#6666FF,xkcd:indigo blue
+275,mehamn,NO,24,09/28/2018,98,71.03,27.85,35.43,10.98,xkcd:green,#1919FF,#3333FF,xkcd:blue
+276,beipiao,CN,92,09/28/2018,74,41.8,120.76,48.21,5.73,xkcd:sea green,#4C4CFF,#E5E5FF,xkcd:indigo blue
+277,lodwar,KE,64,09/28/2018,64,3.12,35.6,76.2,8.08,xkcd:orange,#6666FF,#9999FF,xkcd:indigo blue
+278,venustiano carranza,MX,75,09/28/2018,59,19.42,-99.11,66.2,12.75,xkcd:yellow,#7F7FFF,#B2B2FF,xkcd:blue
+279,aksarka,RU,92,09/28/2018,99,66.56,67.8,43.26,12.44,xkcd:sea green,#1919FF,#E5E5FF,xkcd:blue
+280,ponta delgada,PT,75,09/28/2018,88,37.73,-25.67,71.6,8.05,xkcd:orange,#3333FF,#B2B2FF,xkcd:indigo blue
+281,carnarvon,AU,92,09/28/2018,93,-24.87,113.63,67.38,16.69,xkcd:yellow,#1919FF,#E5E5FF,xkcd:green
+282,brae,GB,92,09/28/2018,70,60.4,-1.35,51.8,31.09,xkcd:yellow green,#6666FF,#E5E5FF,xkcd:orange
+283,saint-augustin,CA,75,09/28/2018,77,45.63,-73.98,64.4,6.93,xkcd:yellow,#4C4CFF,#B2B2FF,xkcd:indigo blue
+284,mopti,ML,20,09/28/2018,88,14.49,-4.19,80.6,6.93,xkcd:reddish orange,#3333FF,#1919FF,xkcd:indigo blue
+285,aykhal,RU,32,09/28/2018,87,65.95,111.51,31.11,2.71,xkcd:green,#3333FF,#4C4CFF,xkcd:violet
+286,verkhovyna,UA,0,09/28/2018,84,48.15,24.83,33.99,1.92,xkcd:green,#3333FF,#0000FF,xkcd:violet
+287,emirdag,TR,24,09/28/2018,87,39.02,31.15,46.41,2.48,xkcd:sea green,#3333FF,#3333FF,xkcd:violet
+288,haines junction,CA,88,09/28/2018,43,60.75,-137.51,46.77,2.71,xkcd:sea green,#9999FF,#CCCCFF,xkcd:violet
+289,ternate,ID,32,09/28/2018,99,0.8,127.4,81.96,6.4,xkcd:reddish orange,#1919FF,#4C4CFF,xkcd:indigo blue
+290,navrongo,GH,8,09/28/2018,75,10.89,-1.09,80.07,7.18,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:indigo blue
+291,cockburn town,TC,56,09/28/2018,97,21.46,-71.14,83.67,16.24,xkcd:reddish orange,#1919FF,#7F7FFF,xkcd:green
+292,xingcheng,CN,0,09/28/2018,78,40.62,120.71,56.94,4.5,xkcd:yellow green,#4C4CFF,#0000FF,xkcd:violet
+293,mackenzie,CA,75,09/28/2018,43,55.34,-123.09,51.8,5.82,xkcd:yellow green,#9999FF,#B2B2FF,xkcd:indigo blue
+294,usinsk,RU,92,09/28/2018,100,66,57.56,38.13,4.05,xkcd:green,#0000FF,#E5E5FF,xkcd:violet
+295,charters towers,AU,0,09/28/2018,82,-20.07,146.27,73.86,4.5,xkcd:orange,#3333FF,#0000FF,xkcd:violet
+296,tevriz,RU,80,09/28/2018,87,57.51,72.4,44.43,9.53,xkcd:sea green,#3333FF,#B2B2FF,xkcd:indigo blue
+297,katsuura,JP,90,09/28/2018,100,33.93,134.5,66.2,6.93,xkcd:yellow,#0000FF,#CCCCFF,xkcd:indigo blue
+298,inhambane,MZ,0,09/28/2018,100,-23.87,35.38,72.33,7.52,xkcd:orange,#0000FF,#0000FF,xkcd:indigo blue
+299,adre,TD,80,09/28/2018,93,13.47,22.2,67.38,4.16,xkcd:yellow,#1919FF,#B2B2FF,xkcd:violet
+300,gravdal,NO,92,09/28/2018,81,59.79,5.78,50,18.34,xkcd:sea green,#3333FF,#E5E5FF,xkcd:green
+301,tondano,ID,20,09/28/2018,62,1.3,124.91,86,2.24,xkcd:reddish orange,#6666FF,#1919FF,xkcd:violet
+302,mackay,AU,0,09/28/2018,57,-21.15,149.2,78.8,8.05,xkcd:orange,#7F7FFF,#0000FF,xkcd:indigo blue
+303,vestmanna,FO,92,09/28/2018,93,62.16,-7.17,48.2,14.99,xkcd:sea green,#1919FF,#E5E5FF,xkcd:blue
+304,san patricio,MX,24,09/28/2018,63,19.22,-104.7,87.09,5.73,xkcd:reddish orange,#6666FF,#3333FF,xkcd:indigo blue
+305,buala,SB,68,09/28/2018,88,-8.15,159.59,83.76,4.94,xkcd:reddish orange,#3333FF,#9999FF,xkcd:violet
+306,honiara,SB,75,09/28/2018,66,-9.43,159.96,87.8,6.93,xkcd:reddish orange,#6666FF,#B2B2FF,xkcd:indigo blue
+307,oda,GH,80,09/28/2018,96,5.91,-1,73.95,4.27,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+308,basco,PH,80,09/28/2018,97,20.45,121.97,83.31,18.7,xkcd:reddish orange,#1919FF,#B2B2FF,xkcd:green
+309,kadiri,IN,20,09/28/2018,97,14.11,78.16,68.91,2.82,xkcd:yellow,#1919FF,#1919FF,xkcd:violet
+310,rio grande,BR,92,09/28/2018,94,-32.03,-52.1,66.12,24.07,xkcd:yellow,#1919FF,#E5E5FF,xkcd:sea green
+311,albany,AU,0,09/28/2018,59,-35.02,117.88,55.5,16.69,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:green
+312,hami,CN,20,09/28/2018,59,42.84,93.51,38.94,3.27,xkcd:green,#7F7FFF,#1919FF,xkcd:violet
+313,bull savanna,JM,80,09/28/2018,77,17.89,-77.59,78.9,2.59,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:violet
+314,san andres,GT,68,09/28/2018,75,16.97,-89.92,80.88,5.61,xkcd:reddish orange,#4C4CFF,#9999FF,xkcd:indigo blue
+315,igrim,RU,36,09/28/2018,88,63.19,64.42,39.93,6.17,xkcd:green,#3333FF,#4C4CFF,xkcd:indigo blue
+316,mareeba,AU,20,09/28/2018,45,-16.99,145.42,82.4,21.92,xkcd:reddish orange,#9999FF,#1919FF,xkcd:sea green
+317,taoudenni,ML,0,09/28/2018,28,22.68,-3.98,78.09,8.63,xkcd:orange,#CCCCFF,#0000FF,xkcd:indigo blue
+318,carberry,CA,75,09/28/2018,44,49.87,-99.36,39.2,8.05,xkcd:green,#9999FF,#B2B2FF,xkcd:indigo blue
+319,camopi,GF,0,09/28/2018,56,3.17,-52.33,84.93,5.5,xkcd:reddish orange,#7F7FFF,#0000FF,xkcd:indigo blue
+320,manakara,MG,68,09/28/2018,100,-22.14,48.01,67.38,8.41,xkcd:yellow,#0000FF,#9999FF,xkcd:indigo blue
+321,cooma,AU,68,09/28/2018,82,-36.24,149.13,41.55,9.64,xkcd:sea green,#3333FF,#9999FF,xkcd:indigo blue
+322,bushehr,IR,0,09/28/2018,68,28.97,50.84,80.88,6.17,xkcd:reddish orange,#6666FF,#0000FF,xkcd:indigo blue
+323,fort frances,CA,90,09/28/2018,16,48.61,-93.4,35.06,13.87,xkcd:green,#E5E5FF,#CCCCFF,xkcd:blue
+324,leh,IN,64,09/28/2018,82,34.16,77.58,7.62,1.81,xkcd:violet,#3333FF,#9999FF,xkcd:violet
+325,mahanoro,MG,92,09/28/2018,99,-19.9,48.8,63.78,1.81,xkcd:yellow,#1919FF,#E5E5FF,xkcd:violet
+326,bayan,KW,0,09/28/2018,22,29.3,48.05,80.6,3.36,xkcd:reddish orange,#CCCCFF,#0000FF,xkcd:violet
+327,chernyshevskiy,RU,36,09/28/2018,88,63.01,112.47,38.13,2.93,xkcd:green,#3333FF,#4C4CFF,xkcd:violet
+328,cayenne,GF,0,09/28/2018,94,4.94,-52.33,80.6,2.24,xkcd:reddish orange,#1919FF,#0000FF,xkcd:violet
+329,alice springs,AU,0,09/28/2018,28,-23.7,133.88,71.6,16.11,xkcd:orange,#CCCCFF,#0000FF,xkcd:green
+330,tiksi,RU,92,09/28/2018,99,71.64,128.87,29.76,4.16,xkcd:blue,#1919FF,#E5E5FF,xkcd:violet
+331,alyangula,AU,0,09/28/2018,87,-13.85,136.42,81.6,17.13,xkcd:reddish orange,#3333FF,#0000FF,xkcd:green
+332,victoria,SC,8,09/28/2018,78,-4.62,55.45,78.8,14.99,xkcd:orange,#4C4CFF,#0000FF,xkcd:blue
+333,waddan,LY,0,09/28/2018,48,29.16,16.14,55.5,4.61,xkcd:yellow green,#9999FF,#0000FF,xkcd:violet
+334,iracoubo,GF,0,09/28/2018,73,5.48,-53.21,80.97,7.29,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:indigo blue
+335,lucea,JM,20,09/28/2018,61,18.44,-78.17,82.4,9.17,xkcd:reddish orange,#6666FF,#1919FF,xkcd:indigo blue
+336,half moon bay,US,20,09/28/2018,60,37.46,-122.43,71.96,16.11,xkcd:orange,#7F7FFF,#1919FF,xkcd:green
+337,benito juarez,MX,0,09/28/2018,39,28.64,-111.57,95.73,8.19,xkcd:red,#B2B2FF,#0000FF,xkcd:indigo blue
+338,lucapa,AO,56,09/28/2018,96,-8.42,20.74,67.29,2.71,xkcd:yellow,#1919FF,#7F7FFF,xkcd:violet
+339,cherskiy,RU,32,09/28/2018,86,68.75,161.3,37.32,3.15,xkcd:green,#3333FF,#4C4CFF,xkcd:violet
+340,le port,RE,0,09/28/2018,64,-20.94,55.29,68,11.41,xkcd:yellow,#6666FF,#0000FF,xkcd:blue
+341,atherton,AU,20,09/28/2018,45,-17.27,145.48,82.4,21.92,xkcd:reddish orange,#9999FF,#1919FF,xkcd:sea green
+342,mildura,AU,0,09/28/2018,57,-34.18,142.16,55.14,9.75,xkcd:yellow green,#7F7FFF,#0000FF,xkcd:indigo blue
+343,waingapu,ID,0,09/28/2018,78,-9.65,120.26,79.17,7.29,xkcd:orange,#4C4CFF,#0000FF,xkcd:indigo blue
+344,hanzhong,CN,20,09/28/2018,83,33.08,107.03,46.95,1.36,xkcd:sea green,#3333FF,#1919FF,xkcd:violet
+345,bodden town,KY,20,09/28/2018,83,19.28,-81.25,84.2,10.29,xkcd:reddish orange,#3333FF,#1919FF,xkcd:blue
+346,havre-saint-pierre,CA,90,09/28/2018,81,50.23,-63.6,48.2,10.29,xkcd:sea green,#3333FF,#CCCCFF,xkcd:blue
+347,naze,JP,75,09/28/2018,83,28.37,129.48,84.2,29.97,xkcd:reddish orange,#3333FF,#B2B2FF,xkcd:sea green
+348,adrar,DZ,0,09/28/2018,49,27.87,-0.29,73.4,12.75,xkcd:orange,#9999FF,#0000FF,xkcd:blue
+349,toba,JP,75,09/28/2018,88,34.47,136.83,68,10.29,xkcd:yellow,#3333FF,#B2B2FF,xkcd:blue
+350,wanning,CN,24,09/28/2018,100,18.8,110.4,79.62,11.65,xkcd:orange,#0000FF,#3333FF,xkcd:blue
+351,belyy yar,RU,90,09/28/2018,100,53.6,91.39,44.6,2.24,xkcd:sea green,#0000FF,#CCCCFF,xkcd:violet
+352,matagami,CA,90,09/28/2018,86,49.76,-77.63,39.2,5.82,xkcd:green,#3333FF,#CCCCFF,xkcd:indigo blue
+353,menongue,AO,48,09/28/2018,50,-14.66,17.68,70.26,3.15,xkcd:orange,#9999FF,#6666FF,xkcd:violet
+354,upata,VE,64,09/28/2018,77,8.02,-62.41,77.19,4.16,xkcd:orange,#4C4CFF,#9999FF,xkcd:violet
+355,ploemeur,FR,0,09/28/2018,82,47.73,-3.43,55.4,14.99,xkcd:yellow green,#3333FF,#0000FF,xkcd:blue
+356,sinnamary,GF,0,09/28/2018,94,5.38,-52.96,82.59,14.23,xkcd:reddish orange,#1919FF,#0000FF,xkcd:blue
+357,moree,AU,0,09/28/2018,47,-29.46,149.84,72.51,13.56,xkcd:orange,#9999FF,#0000FF,xkcd:blue
+358,ballina,AU,0,09/28/2018,88,-28.87,153.57,72.42,13.11,xkcd:orange,#3333FF,#0000FF,xkcd:blue
+359,namibe,AO,12,09/28/2018,99,-15.19,12.15,68.55,7.4,xkcd:yellow,#1919FF,#1919FF,xkcd:indigo blue
+360,quelimane,MZ,0,09/28/2018,90,-17.88,36.89,74.13,9.42,xkcd:orange,#3333FF,#0000FF,xkcd:indigo blue
+361,wroclaw,PL,0,09/28/2018,80,51.1,17.03,39.2,8.05,xkcd:green,#4C4CFF,#0000FF,xkcd:indigo blue
+362,takoradi,GH,88,09/28/2018,97,4.89,-1.75,77.01,6.4,xkcd:orange,#1919FF,#CCCCFF,xkcd:indigo blue
+363,la celia,CO,40,09/28/2018,83,5,-76,73.4,2.24,xkcd:orange,#3333FF,#4C4CFF,xkcd:violet
+364,doka,SD,0,09/28/2018,61,13.52,35.76,74.13,2.37,xkcd:orange,#6666FF,#0000FF,xkcd:violet
+365,mayo,CA,5,09/28/2018,37,63.59,-135.9,50,3.36,xkcd:sea green,#B2B2FF,#0000FF,xkcd:violet
+366,nicoya,CR,75,09/28/2018,94,10.15,-85.45,77,4.7,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+367,rikitea,PF,92,09/28/2018,100,-23.12,-134.97,71.88,4.83,xkcd:orange,#0000FF,#E5E5FF,xkcd:violet
+368,palana,RU,32,09/28/2018,75,59.08,159.95,50.55,5.61,xkcd:yellow green,#4C4CFF,#4C4CFF,xkcd:indigo blue
+369,svetlaya,RU,0,09/28/2018,95,46.54,138.33,57.66,5.28,xkcd:yellow green,#1919FF,#0000FF,xkcd:indigo blue
+370,yima,CN,0,09/28/2018,67,34.75,111.87,53.07,3.38,xkcd:yellow green,#6666FF,#0000FF,xkcd:violet
+371,amnat charoen,TH,88,09/28/2018,97,15.86,104.63,75.21,8.52,xkcd:orange,#1919FF,#CCCCFF,xkcd:indigo blue
+372,qidong,CN,0,09/28/2018,85,31.81,121.66,74.31,18.03,xkcd:orange,#3333FF,#0000FF,xkcd:green
+373,tautira,PF,20,09/28/2018,58,-17.73,-149.15,82.4,16.11,xkcd:reddish orange,#7F7FFF,#1919FF,xkcd:green
+374,murgab,TM,0,09/28/2018,50,37.5,61.97,55.4,7.4,xkcd:yellow green,#9999FF,#0000FF,xkcd:indigo blue
+375,kalabo,ZM,20,09/28/2018,53,-15,22.67,66.57,2.71,xkcd:yellow,#7F7FFF,#1919FF,xkcd:violet
+376,abbeville,US,1,09/28/2018,100,29.97,-92.13,78.08,5.73,xkcd:orange,#0000FF,#0000FF,xkcd:indigo blue
+377,sayat,TM,0,09/28/2018,50,38.78,63.88,53.6,4.7,xkcd:yellow green,#9999FF,#0000FF,xkcd:violet
+378,esperance,AU,44,09/28/2018,73,-33.86,121.89,53.43,14.9,xkcd:yellow green,#4C4CFF,#6666FF,xkcd:blue
+379,norman wells,CA,75,09/28/2018,59,65.28,-126.83,37.4,10.29,xkcd:green,#7F7FFF,#B2B2FF,xkcd:blue
+380,texarkana,US,90,09/28/2018,87,33.44,-94.04,64.04,5.82,xkcd:yellow,#3333FF,#CCCCFF,xkcd:indigo blue
+381,lerwick,GB,88,09/28/2018,70,60.15,-1.15,51.8,31.09,xkcd:yellow green,#6666FF,#CCCCFF,xkcd:orange
+382,lokoja,NG,76,09/28/2018,100,7.8,6.74,72.96,3.38,xkcd:orange,#0000FF,#B2B2FF,xkcd:violet
+383,naryan-mar,RU,92,09/28/2018,99,67.67,53.09,39.93,4.72,xkcd:green,#1919FF,#E5E5FF,xkcd:violet
+384,jumla,NP,0,09/28/2018,83,29.28,82.18,34.71,2.93,xkcd:green,#3333FF,#0000FF,xkcd:violet
+385,vakhrushev,RU,0,09/28/2018,83,48.99,142.86,54.51,3.94,xkcd:yellow green,#3333FF,#0000FF,xkcd:violet
+386,sassenberg,DE,0,09/28/2018,93,51.99,8.04,39.2,2.24,xkcd:green,#1919FF,#0000FF,xkcd:violet
+387,georgetown,SH,0,09/28/2018,100,-7.93,-14.42,74.67,16.35,xkcd:orange,#0000FF,#0000FF,xkcd:green
+388,bambanglipuro,ID,80,09/28/2018,95,-7.95,110.28,71.16,3.38,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+389,severo-kurilsk,RU,44,09/28/2018,91,50.68,156.12,51.18,6.51,xkcd:yellow green,#1919FF,#6666FF,xkcd:indigo blue
+390,nikolskoye,RU,0,09/28/2018,74,59.7,30.79,37.4,8.95,xkcd:green,#4C4CFF,#0000FF,xkcd:indigo blue
+391,jamestown,SH,80,09/28/2018,100,-15.94,-5.72,66.93,14.67,xkcd:yellow,#0000FF,#B2B2FF,xkcd:blue
+392,calama,CL,0,09/28/2018,11,-22.46,-68.93,62.6,13.87,xkcd:yellow,#E5E5FF,#0000FF,xkcd:blue
+393,banda aceh,ID,0,09/28/2018,99,5.56,95.32,73.05,1.92,xkcd:orange,#1919FF,#0000FF,xkcd:violet
+394,mandera,KE,80,09/28/2018,75,3.94,41.87,76.29,6.17,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:indigo blue
+395,dokka,NO,32,09/28/2018,100,60.83,10.07,31.38,2.37,xkcd:green,#0000FF,#4C4CFF,xkcd:violet
+396,oktyabrskiy,RU,20,09/28/2018,80,55.61,37.97,41,6.71,xkcd:sea green,#4C4CFF,#1919FF,xkcd:indigo blue
+397,beruwala,LK,88,09/28/2018,100,6.48,79.98,75.48,4.16,xkcd:orange,#0000FF,#CCCCFF,xkcd:violet
+398,muravlenko,RU,92,09/28/2018,100,63.79,74.5,47.22,16.35,xkcd:sea green,#0000FF,#E5E5FF,xkcd:green
+399,sept-iles,CA,20,09/28/2018,87,50.2,-66.38,44.6,16.11,xkcd:sea green,#3333FF,#1919FF,xkcd:green
+400,sol-iletsk,RU,0,09/28/2018,81,51.16,55,43.89,10.76,xkcd:sea green,#3333FF,#0000FF,xkcd:blue
+401,hasaki,JP,75,09/28/2018,78,35.73,140.83,71.6,4.7,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:violet
+402,san cristobal,EC,80,09/28/2018,99,-1.02,-79.44,64.14,1.59,xkcd:yellow,#1919FF,#B2B2FF,xkcd:violet
+403,geraldton,AU,90,09/28/2018,64,-28.77,114.6,71.6,13.87,xkcd:orange,#6666FF,#CCCCFF,xkcd:blue
+404,maralal,KE,20,09/28/2018,97,1.1,36.7,51.81,2.59,xkcd:yellow green,#1919FF,#1919FF,xkcd:violet
+405,kungurtug,RU,0,09/28/2018,70,50.6,97.53,16.53,2.37,xkcd:indigo blue,#6666FF,#0000FF,xkcd:violet
+406,korla,CN,0,09/28/2018,71,41.76,86.15,44.43,3.04,xkcd:sea green,#4C4CFF,#0000FF,xkcd:violet
+407,vanavara,RU,0,09/28/2018,80,60.35,102.28,30.66,2.48,xkcd:green,#4C4CFF,#0000FF,xkcd:violet
+408,castro,CL,80,09/28/2018,100,-42.48,-73.76,48.21,8.41,xkcd:sea green,#0000FF,#B2B2FF,xkcd:indigo blue
+409,guerrero negro,MX,8,09/28/2018,51,27.97,-114.04,81.69,10.31,xkcd:reddish orange,#7F7FFF,#0000FF,xkcd:blue
+410,sembe,CG,8,09/28/2018,97,1.65,14.58,71.43,2.04,xkcd:orange,#1919FF,#0000FF,xkcd:violet
+411,solnechnyy,RU,0,09/28/2018,66,50.72,136.64,55.05,2.59,xkcd:yellow green,#6666FF,#0000FF,xkcd:violet
+412,netrakona,BD,44,09/28/2018,96,24.88,90.72,77.82,3.38,xkcd:orange,#1919FF,#6666FF,xkcd:violet
+413,seymchan,RU,92,09/28/2018,100,62.93,152.39,33.36,8.41,xkcd:green,#0000FF,#E5E5FF,xkcd:indigo blue
+414,varangaon,IN,8,09/28/2018,87,21.01,75.91,69.36,2.71,xkcd:yellow,#3333FF,#0000FF,xkcd:violet
+415,longyearbyen,SJ,75,09/28/2018,79,78.22,15.64,26.6,17.22,xkcd:blue,#4C4CFF,#B2B2FF,xkcd:green
+416,hambantota,LK,36,09/28/2018,100,6.12,81.12,77.55,11.65,xkcd:orange,#0000FF,#4C4CFF,xkcd:blue
+417,coihaique,CL,75,09/28/2018,81,-45.58,-72.07,48.2,3.36,xkcd:sea green,#3333FF,#B2B2FF,xkcd:violet
+418,anadyr,RU,75,09/28/2018,93,64.73,177.51,42.8,15.66,xkcd:sea green,#1919FF,#B2B2FF,xkcd:green
+419,agra,IN,0,09/28/2018,76,27.18,78.01,71.07,2.59,xkcd:orange,#4C4CFF,#0000FF,xkcd:violet
+420,bonthe,SL,92,09/28/2018,96,7.53,-12.5,76.83,2.71,xkcd:orange,#1919FF,#E5E5FF,xkcd:violet
+421,port alfred,ZA,0,09/28/2018,85,-33.59,26.89,63.06,26.98,xkcd:yellow,#3333FF,#0000FF,xkcd:sea green
+422,hobart,AU,20,09/28/2018,64,-42.88,147.33,53.6,17.22,xkcd:yellow green,#6666FF,#1919FF,xkcd:green
+423,yeppoon,AU,40,09/28/2018,42,-23.13,150.74,80.6,6.93,xkcd:reddish orange,#9999FF,#4C4CFF,xkcd:indigo blue
+424,port elizabeth,ZA,75,09/28/2018,76,-33.92,25.57,57.2,25.28,xkcd:yellow green,#4C4CFF,#B2B2FF,xkcd:sea green
+425,sioux lookout,CA,90,09/28/2018,59,50.1,-91.92,35.6,12.75,xkcd:green,#7F7FFF,#CCCCFF,xkcd:blue
+426,abashiri,JP,20,09/28/2018,72,44.01,144.25,59,4.7,xkcd:yellow green,#4C4CFF,#1919FF,xkcd:violet
+427,kaspiyskiy,RU,44,09/28/2018,100,45.39,47.37,54.69,4.61,xkcd:yellow green,#0000FF,#6666FF,xkcd:violet
+428,pevek,RU,56,09/28/2018,90,69.7,170.27,44.07,3.38,xkcd:sea green,#3333FF,#7F7FFF,xkcd:violet
+429,kremenki,RU,90,09/28/2018,71,54.51,48.87,57.2,17.9,xkcd:yellow green,#4C4CFF,#CCCCFF,xkcd:green
+430,greytown,ZA,88,09/28/2018,88,-29.06,30.59,56.76,2.15,xkcd:yellow green,#3333FF,#CCCCFF,xkcd:violet
+431,pascagoula,US,1,09/28/2018,100,30.37,-88.56,80.96,2.15,xkcd:reddish orange,#0000FF,#0000FF,xkcd:violet
+432,fougamou,GA,92,09/28/2018,100,-1.22,10.59,70.89,3.15,xkcd:orange,#0000FF,#E5E5FF,xkcd:violet
+433,mokhsogollokh,RU,44,09/28/2018,69,61.4,128.95,37.68,4.38,xkcd:green,#6666FF,#6666FF,xkcd:violet
+434,thompson,CA,90,09/28/2018,59,55.74,-97.86,33.8,10.29,xkcd:green,#7F7FFF,#CCCCFF,xkcd:blue
+435,aviles,ES,0,09/28/2018,93,43.55,-5.92,66.2,8.05,xkcd:yellow,#1919FF,#0000FF,xkcd:indigo blue
+436,presidencia roque saenz pena,AR,12,09/28/2018,67,-26.79,-60.44,81.96,12.44,xkcd:reddish orange,#6666FF,#1919FF,xkcd:blue
+437,gamba,GA,100,09/28/2018,100,-2.72,10.02,77.01,6.4,xkcd:orange,#0000FF,#E5E5FF,xkcd:indigo blue
+438,helong,CN,0,09/28/2018,74,25.94,116.13,69.54,6.62,xkcd:yellow,#4C4CFF,#0000FF,xkcd:indigo blue
+439,katangli,RU,0,09/28/2018,77,51.71,143.23,56.31,12.33,xkcd:yellow green,#4C4CFF,#0000FF,xkcd:blue
+440,sorland,NO,80,09/28/2018,100,67.67,12.69,45.96,25.97,xkcd:sea green,#0000FF,#B2B2FF,xkcd:sea green
+441,whitianga,NZ,36,09/28/2018,100,-36.83,175.7,56.67,6.62,xkcd:yellow green,#0000FF,#4C4CFF,xkcd:indigo blue
+442,kysyl-syr,RU,92,09/28/2018,81,63.9,122.77,39.93,6.62,xkcd:green,#3333FF,#E5E5FF,xkcd:indigo blue
+443,prince rupert,CA,1,09/28/2018,77,54.32,-130.32,60.8,11.41,xkcd:yellow,#4C4CFF,#0000FF,xkcd:blue
+444,lompoc,US,1,09/28/2018,56,34.64,-120.46,69.8,11.41,xkcd:yellow,#7F7FFF,#0000FF,xkcd:blue
+445,srandakan,ID,80,09/28/2018,95,-7.94,110.25,71.16,3.38,xkcd:orange,#1919FF,#B2B2FF,xkcd:violet
+446,barrow,US,40,09/28/2018,64,39.51,-90.4,62.96,5.82,xkcd:yellow,#6666FF,#4C4CFF,xkcd:indigo blue
+447,fukue,JP,75,09/28/2018,88,35.03,136.69,68,10.29,xkcd:yellow,#3333FF,#B2B2FF,xkcd:blue
+448,lalibela,ET,12,09/28/2018,82,12.04,39.05,41.82,2.04,xkcd:sea green,#3333FF,#1919FF,xkcd:violet
+449,hermanus,ZA,56,09/28/2018,91,-34.42,19.24,44.61,1.92,xkcd:sea green,#1919FF,#7F7FFF,xkcd:violet
+450,sovetskiy,RU,76,09/28/2018,88,56.76,48.47,46.86,23.06,xkcd:sea green,#3333FF,#B2B2FF,xkcd:sea green
+451,bethel,US,20,09/28/2018,52,60.79,-161.76,66.02,17.22,xkcd:yellow,#7F7FFF,#1919FF,xkcd:green
+452,hoopstad,ZA,0,09/28/2018,66,-27.83,25.91,55.59,8.41,xkcd:yellow green,#6666FF,#0000FF,xkcd:indigo blue
+453,rawson,AR,20,09/28/2018,65,-43.3,-65.11,54.42,6.85,xkcd:yellow green,#6666FF,#1919FF,xkcd:indigo blue
+454,neiafu,TO,75,09/28/2018,69,-18.65,-173.98,78.8,6.93,xkcd:orange,#6666FF,#B2B2FF,xkcd:indigo blue
+455,provideniya,RU,92,09/28/2018,86,64.42,-173.23,48.21,27.2,xkcd:sea green,#3333FF,#E5E5FF,xkcd:sea green
+456,carmen,CR,75,09/28/2018,93,9.87,-83.92,69.8,1.12,xkcd:yellow,#1919FF,#B2B2FF,xkcd:violet
+457,quatre cocos,MU,56,09/28/2018,88,-20.21,57.76,70.17,10.31,xkcd:orange,#3333FF,#7F7FFF,xkcd:blue
+458,college,US,1,09/28/2018,7,64.86,-147.8,55.04,11.41,xkcd:yellow green,#FFFFFF,#0000FF,xkcd:blue
+459,bambous virieux,MU,56,09/28/2018,88,-20.34,57.76,70.17,10.31,xkcd:orange,#3333FF,#7F7FFF,xkcd:blue
+460,watari,JP,75,09/28/2018,82,38.04,140.87,60.8,4.7,xkcd:yellow,#3333FF,#B2B2FF,xkcd:violet
+461,umba,RU,64,09/28/2018,100,66.69,34.34,39.48,13.67,xkcd:green,#0000FF,#9999FF,xkcd:blue
+462,fairbanks,US,1,09/28/2018,7,64.84,-147.72,55.04,11.41,xkcd:yellow green,#FFFFFF,#0000FF,xkcd:blue
+463,makokou,GA,88,09/28/2018,98,0.56,12.85,70.26,2.26,xkcd:orange,#1919FF,#CCCCFF,xkcd:violet
+464,hohhot,CN,40,09/28/2018,60,40.81,111.65,42.8,6.71,xkcd:sea green,#7F7FFF,#4C4CFF,xkcd:indigo blue
+465,vardo,NO,12,09/28/2018,100,70.37,31.11,39.21,14.34,xkcd:green,#0000FF,#1919FF,xkcd:blue
+466,vaini,TO,75,09/28/2018,78,-21.2,-175.2,77,8.05,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:indigo blue
+467,merrill,US,1,09/28/2018,3,42.03,-121.6,84.02,4.7,xkcd:reddish orange,#FFFFFF,#0000FF,xkcd:violet
+468,te anau,NZ,36,09/28/2018,69,-45.41,167.72,50.19,18.25,xkcd:yellow green,#6666FF,#4C4CFF,xkcd:green
+469,varhaug,NO,75,09/28/2018,93,58.61,5.65,46.4,5.82,xkcd:sea green,#1919FF,#B2B2FF,xkcd:indigo blue
+470,juneau,US,90,09/28/2018,80,58.3,-134.42,53.96,6.93,xkcd:yellow green,#4C4CFF,#CCCCFF,xkcd:indigo blue
+471,torbay,CA,90,09/28/2018,100,47.66,-52.73,51.8,13.87,xkcd:yellow green,#0000FF,#CCCCFF,xkcd:blue
+472,nizwa,OM,0,09/28/2018,66,22.93,57.53,65.04,2.82,xkcd:yellow,#6666FF,#0000FF,xkcd:violet
+473,kayerkan,RU,20,09/28/2018,91,69.35,87.76,48.66,18.37,xkcd:sea green,#1919FF,#1919FF,xkcd:green
+474,bria,CF,12,09/28/2018,90,6.54,21.99,69.99,2.82,xkcd:yellow,#3333FF,#1919FF,xkcd:violet
+475,kodiak,US,90,09/28/2018,66,39.95,-94.76,51.98,9.17,xkcd:yellow green,#6666FF,#CCCCFF,xkcd:indigo blue
+476,praia da vitoria,PT,40,09/28/2018,88,38.73,-27.07,71.6,17.81,xkcd:orange,#3333FF,#4C4CFF,xkcd:green
+477,san giorgio del sannio,IT,0,09/28/2018,67,41.07,14.85,57.2,2.04,xkcd:yellow green,#6666FF,#0000FF,xkcd:violet
+478,arraial do cabo,BR,64,09/28/2018,98,-22.97,-42.02,72.69,6.29,xkcd:orange,#1919FF,#9999FF,xkcd:indigo blue
+479,gorin,RU,0,09/28/2018,66,51.2,136.66,55.05,2.59,xkcd:yellow green,#6666FF,#0000FF,xkcd:violet
+480,north platte,US,90,09/28/2018,60,41.12,-100.77,48.02,6.93,xkcd:sea green,#7F7FFF,#CCCCFF,xkcd:indigo blue
+481,trogir,HR,0,09/28/2018,55,43.52,16.25,60.8,4.7,xkcd:yellow,#7F7FFF,#0000FF,xkcd:violet
+482,salalah,OM,75,09/28/2018,74,17.01,54.1,78.8,1.12,xkcd:orange,#4C4CFF,#B2B2FF,xkcd:violet
+483,nome,US,1,09/28/2018,80,30.04,-94.42,80.06,5.82,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:indigo blue
+484,savannah bight,HN,20,09/28/2018,97,16.45,-85.85,83.94,16.46,xkcd:reddish orange,#1919FF,#1919FF,xkcd:green
+485,makat,KZ,12,09/28/2018,80,47.65,53.35,42.27,5.06,xkcd:sea green,#4C4CFF,#1919FF,xkcd:indigo blue
+486,malibu,US,90,09/28/2018,90,33.61,-84.48,77,2.71,xkcd:orange,#3333FF,#CCCCFF,xkcd:violet
+487,knysna,ZA,0,09/28/2018,71,-34.04,23.05,51.8,10.29,xkcd:yellow green,#4C4CFF,#0000FF,xkcd:blue
+488,dikson,RU,64,09/28/2018,89,73.51,80.55,40.02,14.67,xkcd:sea green,#3333FF,#9999FF,xkcd:blue
+489,sur,OM,0,09/28/2018,98,22.57,59.53,82.23,5.17,xkcd:reddish orange,#1919FF,#0000FF,xkcd:indigo blue
+490,estacion coahuila,MX,1,09/28/2018,14,32.19,-115,104,13.87,xkcd:red,#E5E5FF,#0000FF,xkcd:blue
+491,lukaya,UG,40,09/28/2018,88,-0.15,31.87,69.8,5.82,xkcd:yellow,#3333FF,#4C4CFF,xkcd:indigo blue
+492,palmer,US,90,09/28/2018,77,61.6,-149.11,57.92,3.36,xkcd:yellow green,#4C4CFF,#CCCCFF,xkcd:violet
+493,vila franca do campo,PT,75,09/28/2018,88,37.72,-25.43,71.6,8.05,xkcd:orange,#3333FF,#B2B2FF,xkcd:indigo blue
+494,sitka,US,92,09/28/2018,81,37.17,-99.65,59.82,17.58,xkcd:yellow green,#3333FF,#E5E5FF,xkcd:green
+495,san lorenzo,AR,40,09/28/2018,57,-24.73,-65.49,82.4,5.82,xkcd:reddish orange,#7F7FFF,#4C4CFF,xkcd:indigo blue
+496,tuktoyaktuk,CA,90,09/28/2018,80,69.44,-133.03,30.2,8.05,xkcd:green,#4C4CFF,#CCCCFF,xkcd:indigo blue
+497,noyabrsk,RU,92,09/28/2018,96,63.2,75.45,47.13,16.02,xkcd:sea green,#1919FF,#E5E5FF,xkcd:green
+498,gonda,IN,0,09/28/2018,92,27.13,81.96,75.84,5.28,xkcd:orange,#1919FF,#0000FF,xkcd:indigo blue
+499,barinas,VE,8,09/28/2018,82,8.64,-70.23,80.97,2.93,xkcd:reddish orange,#3333FF,#0000FF,xkcd:violet
+500,izazi,TZ,0,09/28/2018,88,-7.24,35.72,56.04,2.04,xkcd:yellow green,#3333FF,#0000FF,xkcd:violet
+501,nabire,ID,12,09/28/2018,85,-3.36,135.5,77.28,1.14,xkcd:orange,#3333FF,#1919FF,xkcd:violet
+502,saurimo,AO,20,09/28/2018,94,-9.66,20.4,64.32,2.59,xkcd:yellow,#1919FF,#1919FF,xkcd:violet
+503,gimli,CA,20,09/28/2018,88,50.63,-96.99,36.33,10.76,xkcd:green,#3333FF,#1919FF,xkcd:blue
+504,san benito abad,CO,44,09/28/2018,91,8.93,-75.03,79.26,5.39,xkcd:orange,#1919FF,#6666FF,xkcd:indigo blue
+505,smithers,CA,75,09/28/2018,62,54.78,-127.17,55.4,6.93,xkcd:yellow green,#6666FF,#B2B2FF,xkcd:indigo blue
+506,xiongzhou,CN,0,09/28/2018,94,32.34,118.83,68,2.24,xkcd:yellow,#1919FF,#0000FF,xkcd:violet
+507,whitehorse,CA,20,09/28/2018,53,60.72,-135.06,50,4.7,xkcd:sea green,#7F7FFF,#1919FF,xkcd:violet
+508,mount gambier,AU,64,09/28/2018,77,-37.83,140.78,53.61,4.61,xkcd:yellow green,#4C4CFF,#9999FF,xkcd:violet
+509,alofi,NU,75,09/28/2018,57,-19.06,-169.92,80.6,16.11,xkcd:reddish orange,#7F7FFF,#B2B2FF,xkcd:green
+510,zhezkazgan,KZ,0,09/28/2018,80,47.8,67.71,36.51,2.93,xkcd:green,#4C4CFF,#0000FF,xkcd:violet
+511,saint-louis,RE,0,09/28/2018,59,-21.27,55.42,68,6.93,xkcd:yellow,#7F7FFF,#0000FF,xkcd:indigo blue
+512,aklavik,CA,75,09/28/2018,74,68.22,-135.01,30.2,6.93,xkcd:green,#4C4CFF,#B2B2FF,xkcd:indigo blue
+513,loa janan,ID,32,09/28/2018,79,-0.58,117.09,81.33,2.93,xkcd:reddish orange,#4C4CFF,#4C4CFF,xkcd:violet
+514,zile,TR,0,09/28/2018,87,40.3,35.89,44.6,2.59,xkcd:sea green,#3333FF,#0000FF,xkcd:violet
+515,mount isa,AU,0,09/28/2018,15,-20.73,139.49,89.6,11.41,xkcd:reddish orange,#E5E5FF,#0000FF,xkcd:blue
+516,vila velha,BR,0,09/28/2018,78,-3.71,-38.6,80.6,10.29,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:blue
+517,ahipara,NZ,36,09/28/2018,74,-35.17,173.16,58.56,4.94,xkcd:yellow green,#4C4CFF,#4C4CFF,xkcd:violet
+518,chapais,CA,90,09/28/2018,93,49.78,-74.86,41,11.41,xkcd:sea green,#1919FF,#CCCCFF,xkcd:blue
+519,kanchanaburi,TH,36,09/28/2018,95,14.03,99.53,75.93,2.93,xkcd:orange,#1919FF,#4C4CFF,xkcd:violet
+520,punta arenas,CL,0,09/28/2018,75,-53.16,-70.91,41,8.05,xkcd:sea green,#4C4CFF,#0000FF,xkcd:indigo blue
+521,havoysund,NO,75,09/28/2018,86,71,24.66,33.8,12.75,xkcd:green,#3333FF,#B2B2FF,xkcd:blue
+522,imbituba,BR,75,09/28/2018,83,-28.24,-48.67,71.6,9.17,xkcd:orange,#3333FF,#B2B2FF,xkcd:indigo blue
+523,powell,US,1,09/28/2018,55,40.16,-83.08,64.04,3.36,xkcd:yellow,#7F7FFF,#0000FF,xkcd:violet
+524,saint-philippe,RE,0,09/28/2018,59,-21.36,55.77,68,6.93,xkcd:yellow,#7F7FFF,#0000FF,xkcd:indigo blue
+525,jiaozuo,CN,0,09/28/2018,66,35.21,113.25,55.86,2.26,xkcd:yellow green,#6666FF,#0000FF,xkcd:violet
+526,barreirinha,BR,0,09/28/2018,72,-2.8,-57.07,84.57,2.71,xkcd:reddish orange,#4C4CFF,#0000FF,xkcd:violet
+527,natal,BR,20,09/28/2018,83,-5.81,-35.21,77,6.93,xkcd:orange,#3333FF,#1919FF,xkcd:indigo blue
+528,bahia blanca,AR,0,09/28/2018,100,-38.72,-62.27,57.2,4.7,xkcd:yellow green,#0000FF,#0000FF,xkcd:violet
+529,lagoa,PT,0,09/28/2018,94,37.14,-8.45,71.6,5.82,xkcd:orange,#1919FF,#0000FF,xkcd:indigo blue
+530,bluff,NZ,88,09/28/2018,84,-46.6,168.33,55.23,23.96,xkcd:yellow green,#3333FF,#CCCCFF,xkcd:sea green
+531,nishihara,JP,90,09/28/2018,82,35.74,139.53,69.8,4.7,xkcd:yellow,#3333FF,#CCCCFF,xkcd:violet
+532,nador,MA,20,09/28/2018,83,35.17,-2.93,71.6,4.7,xkcd:orange,#3333FF,#1919FF,xkcd:violet
+533,broken hill,AU,0,09/28/2018,50,-31.97,141.45,54.42,14.67,xkcd:yellow green,#9999FF,#0000FF,xkcd:blue
+534,torrington,US,90,09/28/2018,85,42.06,-104.18,44.96,10.29,xkcd:sea green,#3333FF,#CCCCFF,xkcd:blue
+535,broome,AU,0,09/28/2018,54,-17.97,122.23,82.4,6.93,xkcd:reddish orange,#7F7FFF,#0000FF,xkcd:indigo blue
+536,jamestown,US,90,09/28/2018,93,41.5,-71.37,59,8.05,xkcd:yellow green,#1919FF,#CCCCFF,xkcd:indigo blue
+537,wuda,CN,0,09/28/2018,79,39.5,106.72,33.81,2.37,xkcd:green,#4C4CFF,#0000FF,xkcd:violet
+538,sabang,ID,0,09/28/2018,100,1.17,120.82,83.13,3.71,xkcd:reddish orange,#0000FF,#0000FF,xkcd:violet
+539,bien hoa,VN,40,09/28/2018,94,10.95,106.82,80.6,1.12,xkcd:reddish orange,#1919FF,#4C4CFF,xkcd:violet
+540,komsomolskiy,RU,92,09/28/2018,97,67.55,63.78,36.42,3.15,xkcd:green,#1919FF,#E5E5FF,xkcd:violet
+541,neman,RU,0,09/28/2018,92,55.03,22.03,40.56,8.75,xkcd:sea green,#1919FF,#0000FF,xkcd:indigo blue
+542,cabo san lucas,MX,75,09/28/2018,78,22.89,-109.91,84.2,5.82,xkcd:reddish orange,#4C4CFF,#B2B2FF,xkcd:indigo blue
+543,lovozero,RU,76,09/28/2018,92,68.01,35.02,31.38,5.73,xkcd:green,#1919FF,#B2B2FF,xkcd:indigo blue
+544,comodoro rivadavia,AR,40,09/28/2018,62,-45.87,-67.48,59,19.46,xkcd:yellow green,#6666FF,#4C4CFF,xkcd:green
+545,christchurch,NZ,0,09/28/2018,42,-43.53,172.64,64.4,9.17,xkcd:yellow,#9999FF,#0000FF,xkcd:indigo blue
+546,new norfolk,AU,20,09/28/2018,73,-42.78,147.06,53.6,17.22,xkcd:yellow green,#4C4CFF,#1919FF,xkcd:green
+547,shimoda,JP,90,09/28/2018,88,34.7,138.93,66.2,4.7,xkcd:yellow,#3333FF,#CCCCFF,xkcd:violet
+548,rio claro,TT,20,09/28/2018,88,10.31,-61.18,80.6,7.96,xkcd:reddish orange,#3333FF,#1919FF,xkcd:indigo blue
+549,chuy,UY,92,09/28/2018,96,-33.69,-53.46,62.79,23.4,xkcd:yellow,#1919FF,#E5E5FF,xkcd:sea green
+550,marawi,SD,92,09/28/2018,24,18.48,31.82,82.05,2.37,xkcd:reddish orange,#CCCCFF,#E5E5FF,xkcd:violet
+551,busselton,AU,76,09/28/2018,100,-33.64,115.35,59.46,20.15,xkcd:yellow green,#0000FF,#B2B2FF,xkcd:sea green
+552,segovia,ES,0,09/28/2018,59,40.95,-4.12,60.8,4.7,xkcd:yellow,#7F7FFF,#0000FF,xkcd:violet
+553,iqaluit,CA,75,09/28/2018,74,63.75,-68.52,33.8,4.7,xkcd:green,#4C4CFF,#B2B2FF,xkcd:violet
+554,byron bay,AU,0,09/28/2018,57,-28.65,153.62,77,19.46,xkcd:orange,#7F7FFF,#0000FF,xkcd:green
+555,turbat,PK,0,09/28/2018,85,26,63.05,66.93,1.59,xkcd:yellow,#3333FF,#0000FF,xkcd:violet
+556,ossora,RU,0,09/28/2018,100,59.24,163.07,45.78,2.93,xkcd:sea green,#0000FF,#0000FF,xkcd:violet
+557,dolores,AR,92,09/28/2018,88,-36.31,-57.68,65.31,17.69,xkcd:yellow,#3333FF,#E5E5FF,xkcd:green
+558,shingu,JP,75,09/28/2018,94,33.72,135.99,69.8,5.82,xkcd:yellow,#1919FF,#B2B2FF,xkcd:indigo blue
+559,kavaratti,IN,64,09/28/2018,100,10.57,72.64,79.26,9.19,xkcd:orange,#0000FF,#9999FF,xkcd:indigo blue
+560,dunedin,NZ,88,09/28/2018,62,-45.87,170.5,55.68,14.79,xkcd:yellow green,#6666FF,#CCCCFF,xkcd:blue
+561,ostashkov,RU,0,09/28/2018,100,57.14,33.12,36.87,9.19,xkcd:green,#0000FF,#0000FF,xkcd:indigo blue
+562,clyde river,CA,90,09/28/2018,86,70.47,-68.59,28.4,9.17,xkcd:blue,#3333FF,#CCCCFF,xkcd:indigo blue
+563,oum hadjer,TD,0,09/28/2018,65,13.3,19.7,77.73,4.16,xkcd:orange,#6666FF,#0000FF,xkcd:violet
+564,araouane,ML,0,09/28/2018,34,18.9,-3.53,79.17,4.38,xkcd:orange,#B2B2FF,#0000FF,xkcd:violet
+565,khatanga,RU,12,09/28/2018,90,71.98,102.47,40.83,12.88,xkcd:sea green,#3333FF,#1919FF,xkcd:blue
+566,tazovskiy,RU,8,09/28/2018,66,67.47,78.7,52.08,19.71,xkcd:yellow green,#6666FF,#0000FF,xkcd:green
+567,mangan,IN,0,09/28/2018,78,27.5,88.54,36.69,2.15,xkcd:green,#4C4CFF,#0000FF,xkcd:violet
+568,yellowknife,CA,75,09/28/2018,69,62.45,-114.38,33.8,20.8,xkcd:green,#6666FF,#B2B2FF,xkcd:sea green
